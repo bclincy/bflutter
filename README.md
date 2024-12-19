@@ -1,6 +1,12 @@
 # bclincy
 
-A new Flutter project.
+A new Flutter/Firebase project.
+
+## What
+
+This is my first mobile application using that connects to my brianclincy.com api gets my
+events/Podcast and displays them on home screen. The Group screen will have form where users
+can join one of my newsletters, and Request Screen they can request to be part of my podcast.
 
 ## Getting Started
 
