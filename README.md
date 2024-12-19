@@ -8,6 +8,12 @@ This is my first mobile application using that connects to my brianclincy.com ap
 events/Podcast and displays them on home screen. The Group screen will have form where users
 can join one of my newsletters, and Request Screen they can request to be part of my podcast.
 
+## How
+
+I'm using Firebase for user authentic and DB. Users will login and pull the data from events/Podcast
+API off the website. Firebase weill save the request group request and it will do a push post the site
+API with the contact info and date info request to join the podcast NNUTS. Nothing new Under the Sun.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
