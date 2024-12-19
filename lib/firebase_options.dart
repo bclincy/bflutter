@@ -45,31 +45,4 @@ class DefaultFirebaseOptions {
         );
     }
   }
-
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCj2f9YBBXybeTrvGcx8dkoTVRak1AdUBU',
-    appId: '1:490606715219:web:8ee6fb1e62ac6053cec1a6',
-    messagingSenderId: '490606715219',
-    projectId: 'clincydev',
-    authDomain: 'clincydev.firebaseapp.com',
-    storageBucket: 'clincydev.firebasestorage.app',
-    measurementId: 'G-2Y8Y3PYW68',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAUOJzLAVytYce2UmY2ASa3MYyPzFCjCNo',
-    appId: '1:490606715219:android:eeaa0552038b370acec1a6',
-    messagingSenderId: '490606715219',
-    projectId: 'clincydev',
-    storageBucket: 'clincydev.firebasestorage.app',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBkj1vix8bepvubPMdpca6GE-r9I_GJruw',
-    appId: '1:490606715219:ios:409a8b3591bfbb92cec1a6',
-    messagingSenderId: '490606715219',
-    projectId: 'clincydev',
-    storageBucket: 'clincydev.firebasestorage.app',
-    iosBundleId: 'com.example.bclincy',
-  );
 }
